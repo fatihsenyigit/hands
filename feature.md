@@ -1,1 +1,2 @@
-yeni bir dosya olusturduk
+yeni bir dosya olusturduk <br>
+bu dosyannin buyuklugu
