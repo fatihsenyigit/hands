@@ -1,1 +1,0 @@
-ahmetli guzel bir ilcedir
