@@ -1,0 +1,1 @@
+ahmetli ilcesinde guzel bir koy var
